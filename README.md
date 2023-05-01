@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Memorial University of Newfoundland Business and Economics Graduate.
-- 🎓 &nbsp; Get Coding NL_ Full-stack developer student.
+- 🎓 &nbsp; Get Coding NL: Full-stack developer student.
 - 🎓 &nbsp; Studying Computer Science at Thompson River University.
 - 💼 &nbsp; Working as a Firefighter at St. John's Regional Fire Department.
 - 🌱 &nbsp; Learning more about Javascript and it's various frameworks
