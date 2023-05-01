@@ -10,7 +10,7 @@
 - 🎓 &nbsp; Studying Computer Science at Thompson River University.
 - 💼 &nbsp; Working as a Firefighter at St. John's Regional Fire Department.
 - 🌱 &nbsp; Learning more about Javascript and it's various frameworks
-- ✍️ &nbsp; Pursuing .
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
