@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/brycemulley"<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryce%20Mulley-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/brycemulley"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bryce%20Mulley-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:bmulley9816@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bmulley9816@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
